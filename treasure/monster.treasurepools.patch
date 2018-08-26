@@ -1,0 +1,44 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/smallfishtreasure/0/1/fill",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/smallfishtreasure/0/1/fill",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/smallfishtreasure/0/1/fill/-",
+      "value": {
+        "pool": "experienceorbpoolsmall"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/largefishtreasure/0/1/fill",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/largefishtreasure/0/1/fill",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/largefishtreasure/0/1/fill/-",
+      "value": {
+        "pool": "cnexperienceorbpoollarge"
+      }
+    }
+  ]
+]

@@ -1,0 +1,9 @@
+{
+  "author" : "ColonolNutty",
+  "description" : "An addon for More Farming that incorporates experience gains from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1115920474]RPG Growth mod[/url] into many aspects. It may not be obvious, but it requires the RPG Growth mod to work properly.",
+  "friendlyName" : "CN More Farming - RPG Growth Addon",
+  "includes" : ["MoreFarming", "RPG_Growth"],
+  "name" : "MoreFarmingRPGGrowth",
+  "tags" : "Crafting and Building|Planets and Environments|NPCs and Creatures|Quests|Furniture and Objects|Food and Farming|Mechanics",
+  "version" : "v1.0.0"
+}

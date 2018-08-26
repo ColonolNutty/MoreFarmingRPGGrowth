@@ -1,0 +1,48 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/cnexperienceorbpoolmedium",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/cnexperienceorbpoolmedium",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/cnexperienceorbpoollarge",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/cnexperienceorbpoollarge",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op" : "replace",
+      "path" : "/cnexperienceorbpoolmedium",
+      "value" : [ [0, {
+          "pool" : [
+            {"weight" : 1, "item" : ["experienceorb", 10]}
+          ]
+        } ]
+      ]
+    },
+    {
+      "op" : "replace",
+      "path" : "/cnexperienceorbpoollarge",
+      "value" : [ [0, {
+          "pool" : [
+            {"weight" : 1, "item" : ["experienceorb", 15]}
+          ]
+        } ]
+      ]
+    }
+  ]
+]

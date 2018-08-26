@@ -1,0 +1,21 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/rewards",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/rewards",
+      "value": [[ ]]
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/rewards/0/-",
+      "value": ["experienceorb", 500]
+    }
+  ]
+]

@@ -1,0 +1,65 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/fishingcommon/0/1/fill",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/fishingcommon/0/1/fill",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/fishingcommon/0/1/fill/-",
+      "value": {
+        "pool": "experienceorbpoolsmall"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/fishinguncommon/0/1/fill",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/fishinguncommon/0/1/fill",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/fishinguncommon/0/1/fill/-",
+      "value": {
+        "pool": "cnexperienceorbpoolmedium"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/fishingrare/0/1/fill",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/fishingrare/0/1/fill",
+      "value": [ ]
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/fishingrare/0/1/fill/-",
+      "value": {
+        "pool": "cnexperienceorbpoollarge"
+      }
+    }
+  ]
+]
