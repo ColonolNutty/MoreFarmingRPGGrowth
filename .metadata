@@ -5,5 +5,5 @@
   "includes" : ["MoreFarming", "RPG_Growth"],
   "name" : "MoreFarmingRPGGrowth",
   "tags" : "Crafting and Building|Planets and Environments|NPCs and Creatures|Quests|Furniture and Objects|Food and Farming|Mechanics",
-  "version" : "v1.0.0"
+  "version" : "v1.0.1"
 }
