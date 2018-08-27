@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "add",
+    "path" : "/toDropOnRecipeCrafted/-",
+    "value" : {
+      "name" : "experienceorb",
+      "count" : 5,
+      "type" : "ITEM"
+    }
+  }
+]
